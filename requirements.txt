@@ -7,3 +7,5 @@ rich==13.3.4
 argcomplete==3.2.2
 
 multiversx-sdk[ledger]==2.3.1
+
+# Update: 2025-10-22
